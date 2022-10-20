@@ -1,0 +1,16 @@
+{
+  "id": "3690614",
+  "name": "豆瓣电影",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5318220",
+      "name": "电影 ",
+      "font_class": "dianying",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    }
+  ]
+}
